@@ -1,0 +1,8 @@
+Origin: USSR
+Label: Not_malware_made_by_KGB
+Suite: stable_as_Stalin
+Version: 0.0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Definetely not malware made by KGB!!!
