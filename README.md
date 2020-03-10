@@ -1,2 +1,2 @@
 # TweakLearning
-Me trying to learn making tweaks, thanks Litten!
+Me trying to learn how to make tweaks, thanks Litten!
